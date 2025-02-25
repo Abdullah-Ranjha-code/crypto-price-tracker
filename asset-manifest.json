@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Abdullah-Ranjha-code/crypto-price-tracker/static/css/main.eee6bbe5.css",
-    "main.js": "/Abdullah-Ranjha-code/crypto-price-tracker/static/js/main.617f9522.js",
-    "static/js/488.e52da0d9.chunk.js": "/Abdullah-Ranjha-code/crypto-price-tracker/static/js/488.e52da0d9.chunk.js",
-    "index.html": "/Abdullah-Ranjha-code/crypto-price-tracker/index.html",
-    "main.eee6bbe5.css.map": "/Abdullah-Ranjha-code/crypto-price-tracker/static/css/main.eee6bbe5.css.map",
-    "main.617f9522.js.map": "/Abdullah-Ranjha-code/crypto-price-tracker/static/js/main.617f9522.js.map",
-    "488.e52da0d9.chunk.js.map": "/Abdullah-Ranjha-code/crypto-price-tracker/static/js/488.e52da0d9.chunk.js.map"
+    "main.css": "/crypto-price-tracker/static/css/main.eee6bbe5.css",
+    "main.js": "/crypto-price-tracker/static/js/main.16010fb9.js",
+    "static/js/488.e52da0d9.chunk.js": "/crypto-price-tracker/static/js/488.e52da0d9.chunk.js",
+    "index.html": "/crypto-price-tracker/index.html",
+    "main.eee6bbe5.css.map": "/crypto-price-tracker/static/css/main.eee6bbe5.css.map",
+    "main.16010fb9.js.map": "/crypto-price-tracker/static/js/main.16010fb9.js.map",
+    "488.e52da0d9.chunk.js.map": "/crypto-price-tracker/static/js/488.e52da0d9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eee6bbe5.css",
-    "static/js/main.617f9522.js"
+    "static/js/main.16010fb9.js"
   ]
 }
