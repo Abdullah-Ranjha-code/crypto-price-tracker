@@ -1,0 +1,27 @@
+.crypto-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+  }
+  
+  .crypto-item {
+    display: flex;
+    align-items: center;
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 5px;
+    width: 300px;
+    cursor: pointer;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .crypto-item:hover {
+    transform: scale(1.05);
+  }
+  
+  .crypto-item img {
+    width: 50px;
+    margin-right: 10px;
+  }
+  

@@ -1,0 +1,13 @@
+.crypto-details {
+    margin: 20px;
+    text-align: left;
+  }
+  
+  .crypto-details h2 {
+    color: #333;
+  }
+  
+  button {
+    margin-bottom: 20px;
+  }
+  
